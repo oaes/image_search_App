@@ -6,4 +6,4 @@ Simple image search app  using  the pixabay API. Tailwind css is built into work
 
 
 
-### Live site: 
+### [Live site:] (https://img-search-app.netlify.app/)
